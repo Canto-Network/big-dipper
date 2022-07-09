@@ -1,7 +1,7 @@
 {
     "public": {
         "chainName": "Canto",
-        "chainId": "canto_7777-1",
+        "chainId": "canto_7744-1",
         "gtm": "",
         "slashingWindow": 10000,
         "uptimeWindow": 250,
@@ -45,7 +45,7 @@
         "banners": false
     },
     "remote": {
-        "rpc": "https://canto.rpc.chandrastation.com",
+        "rpc": "https://canto.rpc.chandrastation.com/",
         "api": "https://canto.api.chandrastation.com"
     },
     "debug": {
